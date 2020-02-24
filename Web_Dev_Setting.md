@@ -290,3 +290,31 @@ Management Plugin enabled by default at `http://localhost:15672`
 We can access RabbitMQ web dashboard by going to `http://localhost:15672` so, open the link in your favourite browser.
 
 The default username and password is `guest` and `guest` respectively.
+
+
+## Install Dart
+Install via Homebrew
+
+``` 
+brew tap dart-lang/dart
+brew install dart
+```
+
+To upgrade when a new release of Dart is available run:
+
+```
+brew upgrade dart
+```
+
+Check version installed
+```
+brew info dart
+```
+
+#### Switch release
+To switch between locally installed dart releases run brew switch dart `<version>`. Examples:
+
+```
+brew switch dart 1.24.3
+brew switch dart 2.1.0
+```
