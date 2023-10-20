@@ -3,6 +3,8 @@
 <a href="https://github.com/taneung/neung">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taneung&count_private=true&title_color=000000&text_color=1d1f21&icon_color=2bbc8a&bg_color=dedede" />
 </a>
+<!--
 <a href="https://github.com/taneung/neung">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=taneung&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=1d1f21&icon_color=2bbc8a&bg_color=dedede" alt="tanning GitHub Stats" />
 </a>
+-->
